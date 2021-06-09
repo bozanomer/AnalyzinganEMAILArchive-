@@ -30,10 +30,17 @@ Finally, Here the total number of e-mails by per organizations:
 -gmail.com 5585
 
 -swinsborg.com 3301
+
 -cam.ac.uk 2626
+
 -uct.ac.za 2576
+
 -indiana.edu 2333
+
 -unicon.net 2305
+
 -longsight.com 2236
+
 -ox.ac.uk 1485
+
 -berkeley.edu 1388
