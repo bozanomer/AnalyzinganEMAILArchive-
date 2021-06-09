@@ -12,4 +12,11 @@ gword.htm.
 
 ![alt text](https://github.com/bozanomer/AnalyzinganEMAILArchive-/blob/main/words.PNG)
 
+Right here, we can see the "Sakai" is the most used word,because in 2007, Dr. Chuck resigned from his position as the Executive Director of the Sakai Foundation, becoming Clinical Associate Professor of Information at the University of Michigan. 
 
+Sakai is a free, community source, educational software platform designed to support teaching, research and collaboration. Systems of this type are also known as Course Management Systems (CMS), Learning Management Systems (LMS), or Virtual Learning Environments (VLE). Sakai is developed by a community of academic institutions, commercial organizations and individuals. It is distributed under the Educational Community License (a type of open source license).
+## Which top 10  organizations has Dr.Chucj recieved e-mails according to years? 
+
+A second visualization is in gline.py.  It visualizes email participation by organizations over time.Its output is written to gline.js which is visualized using gline.htm
+
+![alt text](https://github.com/bozanomer/AnalyzinganEMAILArchive-/blob/main/Organizations.PNG)
