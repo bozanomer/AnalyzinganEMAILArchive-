@@ -25,22 +25,22 @@ A second visualization is in gline.py.  It visualizes email participation by org
 On the visualization, it can be easily seen which organizations has sent more e-mail and which organization's e-mail number is decreased as time goes.This shows top 10 organizations and we can say that people are always tend to used their personel account in project progress, that is why "gmail" is in the top 10 list as an organization.
 Finally, Here the total number of e-mails by per organizations:
 
--umich.edu 6782
+-umich.edu: 6782
 
--gmail.com 5585
+-gmail.com: 5585
 
--swinsborg.com 3301
+-swinsborg.com: 3301
 
--cam.ac.uk 2626
+-cam.ac.uk: 2626
 
--uct.ac.za 2576
+-uct.ac.za: 2576
 
--indiana.edu 2333
+-indiana.edu: 2333
 
--unicon.net 2305
+-unicon.net: 2305
 
--longsight.com 2236
+-longsight.com: 2236
 
--ox.ac.uk 1485
+-ox.ac.uk: 1485
 
--berkeley.edu 1388
+-berkeley.edu: 1388
