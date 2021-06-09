@@ -10,6 +10,6 @@ All the process related to process is told in README.txt. I just want to show vi
 There is a simple vizualization of the word frequence in the subject lines in the file gword.py.This produces the file gword.js which you can visualize using the file
 gword.htm.
 
-
+![alt text](https://github.com/bozanomer/AnalyzinganEMAILArchive-/blob/main/words.PNG)
 
 
